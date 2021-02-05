@@ -1,0 +1,54 @@
+
+h1 {
+    border: black solid 1px;
+    padding: 20px;
+    margin: 30px;
+    }
+
+h1, h2, h3 {
+            font-family: 'Courier New', Courier, monospace;
+            color: grey;
+h2 {
+    font-size: 50px;
+    font-style: 
+    font-weight: lighter;
+    padding-top 10px;
+    padding-bottom 20px;
+    padding-left 30px;
+    padding-right 4px;
+    text shadow: -10px 10px black
+    
+    
+}
+
+/* use # for id, and use . for class */
+.three-d {
+    margin: 5px 10px 15px 20px;
+    background-color: darkcyan;
+    border: black 10px outset;
+    wordspacing: 0.2em;
+}
+
+
+p.quotation {
+    font-style: italic;
+}
+
+p.quotation em {
+    font-style: normal;
+}
+
+p img{
+    vertical-align: center;
+}
+
+.big-first-letter ::first-letter {
+    font-size: xx-large;
+}
+
+p.big-first-letter ::hover {
+    color: red;
+}
+
+
+
